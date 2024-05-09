@@ -5,14 +5,14 @@
 //     strings:["Student", "Tech Enthusiast", "Fast Learner"],
 //     typeSpeed:20,
 //     BackSpeed:40,
-//     loop:true
+//     loop: true
 // })
-var typed = new Typed(".typing",{
-    strings:["Frontend Developer....", "AI & ML Enthusiast....", "Fast Learner...."],
-    typeSpeed:100,
-    backSpeed:50,
-    loop: true
-})
+// var typed = new Typed(".typing",{
+//     strings:["Frontend Developer....", "AI & ML Enthusiast....", "Fast Learner...."],
+//     typeSpeed:100,
+//     backSpeed:50,
+//     loop: true
+// })
 
 
 // Active Toggle
