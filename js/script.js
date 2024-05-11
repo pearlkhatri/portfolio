@@ -8,7 +8,7 @@
 //     loop: true
 // })
 var typed = new Typed(".typing",{
-    strings:["AI & ML Enthusiast....", "Frontend Developer....", "Fast Learner...."],
+    strings:["Student....", "Frontend Developer....", "AI & ML Enthusiast...."],
     typeSpeed:100,
     backSpeed:50,
     loop: true
